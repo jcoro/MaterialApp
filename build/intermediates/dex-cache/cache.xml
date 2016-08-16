@@ -89,15 +89,22 @@
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="580e86786f8ccf7e1b0e452555f311eb5c7f6cc3">
+        sha1="6b5bcbd43e78c0941f01eb561703eef6000247d0">
         <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3ffe196e163a0b6094ae0b055eebd318c1860ad\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="27ed6ef0a16b533266610e7e30e5ab5849c1b239">
+        sha1="b334bd3bca9b0599548d045e24dd2dce258b8dd9">
         <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb2695e7494f9b31767ba311c15700fc6c55050c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_210759e4b26267a0a10b5b5810fda12e7cb0fc3f\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
