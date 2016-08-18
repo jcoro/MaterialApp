@@ -2,123 +2,123 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_22be143f9fdab2530f1ae80247cb04971c782555.jar" />
-    </item>
-    <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_f32f219fc7f55b8399f20e38a6436fc9126a76da.jar" />
-    </item>
-    <item
-        jar="C:\Users\John\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_017adf44f3b3e4739f3b56751ff87f027fcaca52.jar" />
-    </item>
-    <item
-        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.1.1_b6a761ac9ab589daefd0076f93b2e6afbcb8116d.jar" />
-    </item>
-    <item
-        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_9636c17903bc67816a777dde7ca88b6c20813b2b.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f32f219fc7f55b8399f20e38a6436fc9126a76da\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_946bd039d7f2913b2d107d9e2dd60d4ad3acbe64.jar" />
-    </item>
-    <item
-        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.1.1_d36543d2ecdebd52468f204d33aa478d66ceff2b.jar" />
-    </item>
-    <item
-        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_8b67471ea8b92f595f41edd98decbd032796a1ba.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_946bd039d7f2913b2d107d9e2dd60d4ad3acbe64\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_7d90b5abf23625bfd56c1b72464e29fb1d73cb8f.jar" />
-    </item>
-    <item
-        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_66aa484a5c46b344fab3c35d490df93d2316b3c3.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_7d90b5abf23625bfd56c1b72464e29fb1d73cb8f\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\libs\volley.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\volley_e940af6e7d6f529b46505e79e7a7e087d0ab49d9.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_e940af6e7d6f529b46505e79e7a7e087d0ab49d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_22be143f9fdab2530f1ae80247cb04971c782555\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_017adf44f3b3e4739f3b56751ff87f027fcaca52\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_b6a761ac9ab589daefd0076f93b2e6afbcb8116d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_9636c17903bc67816a777dde7ca88b6c20813b2b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.1.1_d36543d2ecdebd52468f204d33aa478d66ceff2b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_8b67471ea8b92f595f41edd98decbd032796a1ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_66aa484a5c46b344fab3c35d490df93d2316b3c3\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_5335c3f81592b7ca23110edbc454817a99bd9739.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_5335c3f81592b7ca23110edbc454817a99bd9739\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="085916034a1e3131a430a1d5fb8bf1c3ddd4ac6f">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\instant-run_e3ffe196e163a0b6094ae0b055eebd318c1860ad.jar" />
+        sha1="3db47541fe39e5aa36a1c5d57bd2668d50a4f5da">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3ffe196e163a0b6094ae0b055eebd318c1860ad\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="81555673a22486937405c21d5ad705142ddd0eb9">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bb2695e7494f9b31767ba311c15700fc6c55050c.jar" />
+        sha1="21a38311122a49b3d033146c5389c35c37578ef0">
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb2695e7494f9b31767ba311c15700fc6c55050c\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_210759e4b26267a0a10b5b5810fda12e7cb0fc3f.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_210759e4b26267a0a10b5b5810fda12e7cb0fc3f\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_daf926b49c106b30dd1e29677778ce520cd22701.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_daf926b49c106b30dd1e29677778ce520cd22701\classes.dex" />
     </item>
     <item
         jar="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_6f7f913e6e56f0bbc737815ca197acd48d21b534.jar" />
+        <dex dex="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_6f7f913e6e56f0bbc737815ca197acd48d21b534\classes.dex" />
     </item>
 
 </items>
