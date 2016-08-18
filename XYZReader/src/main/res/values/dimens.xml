@@ -7,5 +7,7 @@
     <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="title_margin_start">72dp</dimen>
+    <dimen name="double_action_bar_height">112dp</dimen>
 
 </resources>

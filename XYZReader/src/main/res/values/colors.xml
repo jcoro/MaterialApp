@@ -18,10 +18,10 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="material_indigo_500">#3F51B5</color>
-    <color name="material_indigo_100">#C5CAE9</color>
-    <color name="material_indigo_700">#303F9F</color>
-    <color name="material_pink_200">#FF4081</color>
+    <color name="material_primary_light">#BDBDBD</color><!--Gray 400-->
+    <color name="material_primary">#757575</color><!--Gray 600-->
+    <color name="material_primary_dark">#424242</color><!--Gray 800-->
+    <color name="material_accent">#FF4081</color>
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
 

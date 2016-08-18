@@ -1,56 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="22"
-    density="ldpi"
+    api-level="1"
     format="7"
-    timestamp="523544326302923"
+    timestamp="635754170264167"
     token="3260120421601758607" >
 
     <task
         name="javac"
-        duration="2474" />
+        duration="4159" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="479" />
+        duration="1703" />
     <task
         name="verifier"
-        duration="318" />
+        duration="441" />
 
     <artifact
-        location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
+        location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="520633894839078" >
+    <build timestamp="635754170264167" >
         <artifact
             location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="523544326302923" >
-        <artifact
-            location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\John\Udacity\SourceCode\MaterialApp\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
